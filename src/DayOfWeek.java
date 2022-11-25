@@ -1,2 +1,11 @@
-package PACKAGE_NAME;public enum DayOfWeek {
+public enum DayOfWeek {
+    MONDAY,
+    TUESDAY,
+    WEDNESDAY,
+    THURSDAY,
+    FRIDAY,
+    SATURDAY,
+    SUNDAY,
+
+
 }
